@@ -1,4 +1,4 @@
-import "../js/init";
+import "./init";
 import {images} from "../data/images";
 // Kullanılacak kısmın import edilmesi
 import SimpleLightbox from "simplelightbox";
